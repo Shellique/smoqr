@@ -1,0 +1,10 @@
+Package: smoqr
+Type: Package
+Title: Smoothing Quantile Artificial Network
+Version: 1.0
+Author: Zhou xiyu
+Description: Fit quantile regression neural network models with smoothing quantile loss function
+Date: 2024-02-29
+License: GPL-2
+LazyLoad: yes
+RoxygenNote: 7.3.1
